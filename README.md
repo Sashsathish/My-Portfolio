@@ -29,7 +29,7 @@ This website showcases my projects, skills, and experience as a developer.
 
 ## 📬 Contact
 - Email: [sathishsash2003@gmail.com](mailto:sathishsash2003@gmail.com)  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/sathish-dev-ops/)  
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/sathish-dev-ops/)  
 - GitHub: [Your GitHub](https://github.com/Sashsathish)  
 
 ---

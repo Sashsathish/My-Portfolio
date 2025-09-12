@@ -22,8 +22,20 @@ This website showcases my projects, skills, and experience as a developer.
 
 ---
 
-## 📷 Preview
-![Portfolio Screenshot](docs/images/preview.png)
+## 📷 Screenshots
+
+### Home Page
+![Home Page](public/home.png)
+
+### About Me Section
+![Projects](public/about.png)
+
+### Skills Section
+![Contact](public/skills.png)
+
+### Contact Section
+![Contact](public/connect.png)
+
 
 ---
 

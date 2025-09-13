@@ -48,7 +48,7 @@ export interface SiteMetadata {
  * Navigation configuration
  */
 export interface NavigationConfig {
-  logo: {
+  Logo: {
     text: string;
   };
   links: Array<{

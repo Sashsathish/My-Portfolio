@@ -31,7 +31,7 @@ export const portfolioConfig: PortfolioConfig = {
   },
 
   navigation: {
-    logo: {
+    Logo: {
       text: 'SS',
     },
     links: [

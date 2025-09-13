@@ -21,7 +21,7 @@ import { motion } from 'framer-motion';
 import portfolioConfig from '@/app/config';
 
 const Logo: React.FC = () => {
-  const { logo } = portfolioConfig.navigation;
+  const { Logo } = portfolioConfig.navigation;
 
   return (
     <motion.div
@@ -45,7 +45,7 @@ const Logo: React.FC = () => {
         animate={{ scale: 1, opacity: 1 }}
         transition={{ duration: 0.3, delay: 0.1 }}
       >
-        {logo.text}
+        {Logo.text}
       </motion.span>
 
       {/* Right code bracket */}
